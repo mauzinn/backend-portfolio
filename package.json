@@ -10,7 +10,7 @@
     "server": ""
   },
   "engines": {
-    "node": "20"
+    "node": "16.x"
   },
   "devDependencies": {
     "@types/cors": "^2.8.17",
