@@ -9,7 +9,7 @@ const server: express.Express = express()
         server.use(express.json())
 
     //Cors
-        server.use(cors({origin: 'http://localhost:8080'}))
+        server.use(cors({origin: 'https://frontend-portfolio-fawn.vercel.app'}))
 
 
 //Router
